@@ -1,0 +1,26 @@
+.login-container{
+    text-align: center;
+    margin: 5px auto;
+    border: 2px black solid;
+    width: 300px;
+}
+.login-container input{
+    padding: 10px;
+    font-size: 16px;
+}
+h2 span{
+    color: blue;
+}
+a button{
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(224, 145, 214);
+    padding: 5px 10px ;
+    margin: 5px;
+}
+form button{
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(210, 117, 198);
+    padding: 5px 10px ;
+}

@@ -1,0 +1,27 @@
+.register-form{
+    text-align: center;
+    margin: 5px auto;
+    border: 2px black solid;
+    width: 300px;
+
+}
+.register-form input{
+    padding: 10px;
+    font-size: 16px;
+}
+a button{
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(224, 145, 214);
+    padding: 5px 10px ;
+    margin: 5px;
+}
+h2 span{
+    color: blue;
+}
+div p{
+    font-size: 18px;
+}
+div hr{
+    margin: 10px 10px;
+}
